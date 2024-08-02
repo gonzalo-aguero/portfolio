@@ -1,0 +1,13 @@
+# Archivos y directorios generados por Hugo
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Archivos y directorios comunes a ignorar
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.swp
+
+.hugo_build.lock
