@@ -1,3 +1,4 @@
 [build]
+  command = "hugo"
   command = "cp themes/tailbliss/hugo.yaml themes/tailbliss/config.yaml"
   publish = "public"
