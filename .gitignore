@@ -11,3 +11,4 @@ Thumbs.db
 *.swp
 
 .hugo_build.lock
+node_modules
