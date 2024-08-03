@@ -1,5 +1,5 @@
 title: 'Gonzalo M. Agüero'
-baseURL: 'gonzalo-aguero.netlify.app'
+baseURL: 'https://gonzalo-aguero.netlify.app/'
 languageCode: es-AR
 DefaultContentLanguage: es
 enableEmoji: true
