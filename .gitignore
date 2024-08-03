@@ -1,8 +1,8 @@
 # Archivos y directorios generados por Hugo
-/public/
-/resources/_gen/
-/hugo_stats.json
-
+node_modules/
+resources/
+public/
+hugo_stats.json
 # Archivos y directorios comunes a ignorar
 .DS_Store
 Thumbs.db
@@ -11,4 +11,3 @@ Thumbs.db
 *.swp
 
 .hugo_build.lock
-node_modules
