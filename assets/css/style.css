@@ -2553,6 +2553,10 @@ video {
   border-width: 0;
 }
 
+.pointer-events-none {
+  pointer-events: none;
+}
+
 .absolute {
   position: absolute;
 }
@@ -3101,6 +3105,10 @@ video {
   background-color: rgb(244 244 245 / var(--tw-bg-opacity));
 }
 
+.bg-opacity-50 {
+  --tw-bg-opacity: 0.5;
+}
+
 .bg-center {
   background-position: center;
 }
@@ -3575,6 +3583,15 @@ EmojiSymbols;
 
 .prose :where(h1):not(:where([class~="not-prose"] *)) {
   color: white !important;
+}
+
+.backgroundGradientLayerImage {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, #111827 0%, transparent 50%);
 }
 
 /* Custom CSS end */
