@@ -2772,16 +2772,8 @@ video {
   height: 100%;
 }
 
-.max-h-12 {
-  max-height: 3rem;
-}
-
-.max-h-16 {
-  max-height: 4rem;
-}
-
-.max-h-20 {
-  max-height: 5rem;
+.max-h-14 {
+  max-height: 3.5rem;
 }
 
 .w-0 {

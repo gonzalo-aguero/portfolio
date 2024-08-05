@@ -72,10 +72,13 @@ params:
   p3:
     heading: "Tecnologías"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-    links:
-      - text: Meet our investors and advisors
-        url: "#"
+      - text: "He adquirido y aplicado mis conocimientos en varios proyectos utilizando principalmente JavaScript y PHP, tanto en su versión vanilla como con el framework Laravel. Para la estética de los sitios web, manejo tanto CSS3 como TailwindCSS."
+      - text: "Durante mis estudios en la universidad, aprendí a utilizar SQL, con un enfoque principal en PostgreSQL."
+      - text: "En cuanto a React, lo he aprendido e implementado en el desarrollo de una aplicación personal para la gestión de gastos."
+      - text: "Actualmente, uso Linux como mi sistema operativo principal. Me siento muy cómodo utilizando la terminal y estoy familiarizado con la estructura de archivos, los comandos más comunes, y gracias a mi formación académica, tengo un sólido entendimiento de los sistemas operativos. Esto me permite investigar y resolver problemas con mayor facilidad cuando sea necesario."
+    # links:
+    #   - text: Meet our investors and advisors
+    #     url: "#"
     logos:
       - identifier: a
         image: "images/icons/javascript-original.svg"
@@ -93,6 +96,10 @@ params:
         image: "images/icons/react-original-wordmark.svg"
         title: "React JS"
         alt: "React JS"
+      - identifier:  b
+        image: "images/icons/postgresql-original-wordmark.svg"
+        title: "PostgreSQL"
+        alt: "PostgreSQL"
       - identifier: b
         image: "images/icons/linux-original.svg"
         title: "Linux"
@@ -112,7 +119,7 @@ params:
   p4:
     heading: "Proyectos"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Los siguientes son los proyectos en los que he trabajado"
   p5:
     heading: "Stay Up to Date"
     content:
