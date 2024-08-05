@@ -78,13 +78,37 @@ params:
         url: "#"
     logos:
       - identifier: a
-        image: "images/global/sample-logo.svg"
-        alt: "a"
+        image: "images/icons/javascript-original.svg"
+        title: "JavaScript"
+        alt: "JavaScrit"
       - identifier: b
-      - identifier: c
-      - identifier: d
-      - identifier: e
-      - identifier: f
+        image: "images/icons/php-original.svg"
+        title: "PHP"
+        alt: "PHP"
+      - identifier: b
+        image: "images/icons/laravel-original.svg"
+        title: "Laravel"
+        alt: "Laravel"
+      - identifier: b
+        image: "images/icons/react-original-wordmark.svg"
+        title: "React JS"
+        alt: "React JS"
+      - identifier: b
+        image: "images/icons/linux-original.svg"
+        title: "Linux"
+        alt: "Linux"
+      - identifier: b
+        image: "images/icons/tailwindcss-original.svg"
+        title: "Tailwind CSS"
+        alt: "Tailwind CSS"
+      - identifier: b
+        image: "images/icons/html5-original-wordmark.svg"
+        title: "HTML5"
+        alt: "HTML5"
+      - identifier: b
+        image: "images/icons/css3-original-wordmark.svg"
+        title: "CSS3"
+        alt: "CSS3"
   p4:
     heading: "Proyectos"
     content:
