@@ -4,7 +4,7 @@ title: "Anubis Insumos"
 date: 2024-08-04T10:29:44-03:00
 draft: false
 language: es
-featured_image: ../assets/images/projects/anubisinsumos.png
+featured_image: "../assets/images/projects/anubisinsumos (1).png"
 summary: "E-Commerce para empresa dedicada a la venta de artículos para artesanos."
 description: "E-Commerce para empresa dedicada a la venta de artículos para artesanos."
 authorimage: ../assets/images/global/author.webp

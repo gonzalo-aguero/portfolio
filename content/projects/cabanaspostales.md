@@ -4,7 +4,7 @@ title: "Cabanas Postales de Sauce"
 date: 2024-08-03T10:46:02-03:00
 draft: false
 language: es
-featured_image: ../assets/images/projects/cabanaspostales.jpeg
+featured_image: ../assets/images/projects/cabanaspostales.png
 summary: "Sistema de reservas de cabaña y quinta, realizado para cliente."
 description: "Sistema de reservas de cabaña y quinta, realizado para cliente."
 authorimage: ../assets/images/global/author.webp
