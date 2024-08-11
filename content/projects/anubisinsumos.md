@@ -9,7 +9,7 @@ summary: "E-Commerce para empresa dedicada a la venta de artículos para artesan
 description: "E-Commerce para empresa dedicada a la venta de artículos para artesanos."
 authorimage: ../assets/images/global/author.webp
 categories: ["Projects"]
-tags: ["Wordpress", "WooCommerce", "JavaScript", "PHP"]
+tags: ["Wordpress", "JavaScript", "PHP"]
 hideAuthorSection: true
 ---
 ## Sobre el proyecto

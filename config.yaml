@@ -56,20 +56,23 @@ params:
   disable_stay_uptodate: false
 
   p1:
+    active: true
     heading: "Sobre mí"
     image: "images/pages/our-mission.png"
     showImage: false
     content:
-      - text: "Mi nombre es Gonzalo Manuel Agüero y soy desarrollador de software. Aunque estoy en las etapas iniciales de mi carrera, tengo más de dos años de experiencia en programación y actualmente estudio Ingeniería en Sistemas en la Universidad Tecnológica Nacional (UTN) de Santa Fe, Argentina."
-      - text: "Mi pasión por el diseño y desarrollo de soluciones me impulsa a aprender continuamente y a esforzarme por mejorar tanto mis habilidades como la calidad de mis proyectos. Disfruto adquiriendo nuevos conocimientos y aplicando buenas prácticas para incrementar la eficiencia y calidad en mis desarrollos."
-      - text:  "Actualmente, mi enfoque principal es el desarrollo web, y he completado varios proyectos personales y para clientes. También tengo experiencia en desarrollo de aplicaciones móviles con React Native y Expo, así como en desarrollo de aplicaciones de escritorio con Java."
-      - text: "Durante mis viajes, me gusta mantenerme actualizado sobre las últimas tendencias y novedades del sector leyendo diferentes artículos en daily.dev. Además, para mejorar mi capacidad de análisis y resolución de problemas, resuelvo regularmente ejercicios de programación en plataformas como LeetCode, donde he completado varios problemas en C++."
+      - text: "Mi nombre es Gonzalo Manuel Agüero y soy desarrollador de software. Aunque actualmente estoy en las etapas iniciales de mi carrera, he adquirido experiencia realizando varios proyectos, tanto personales como para clientes."
+      - text: "Por el momento, mi enfoque principal es el desarrollo web. Sin embargo, también tengo un poco de experiencia en desarrollo de aplicaciones móviles con React Native y Expo, así como en desarrollo de aplicaciones de escritorio con Java."
+      
   p2:
-    heading: "Just in time for Hacktoberfest with JIT Tailwind."
+    active: true
+    heading: "Educación y aprendizaje"#"Formación y desarrollo"
     image: "images/pages/hacktoberfest.jpg"
     showImage: false
     content:
-      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
+      - text: "Actualmente soy estudiante de tercer año de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (UTN) de Santa Fe, Argentina."
+      - text: "Mi pasión por el desarrollo software me impulsa a aprender continuamente y a esforzarme por mejorar tanto mis habilidades como la calidad de mis proyectos. Disfruto adquiriendo nuevos conocimientos y aplicando buenas prácticas para incrementar la eficiencia y calidad en mis desarrollos."
+      - text: "Durante mis viajes, me gusta mantenerme actualizado sobre las últimas tendencias y novedades del sector leyendo diferentes artículos en daily.dev. Además, para mejorar mi capacidad de análisis y resolución de problemas, disfruto resolviendo ejercicios de programación en plataformas como LeetCode."
   p3:
     heading: "Tecnologías"
     content:
@@ -134,14 +137,17 @@ params:
     github:
       enabled: true
       url: 'https://github.com/gonzalo-aguero'
+    linkedin:
+      enabled: true
+      url: 'https://www.linkedin.com/in/gonzalo-aguero/'
     facebook:
       enabled: false
       url: 'https://facebook.com/'
     instagram:
-      enabled: true
+      enabled: false
       url: 'https://instagram.com/nusserstudios'
     twitter:
-      enabled: true
+      enabled: false
       url: 'https://twitter.com/nusserstudios'
     
 

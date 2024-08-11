@@ -5,5 +5,5 @@
     - Breve descripción de todos los proyectos.
     - Enlaces al repo.
 - Imagen de cover: ocupar todo el espacio.
-- Sección sobre mí: buscar imagen.
+- Secciones Sobre Mi y Educación: buscar imagenes.
 - Sección tecnologías: botón de ver más.
