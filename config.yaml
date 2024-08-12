@@ -129,7 +129,8 @@ params:
     content:
       - text: "Los siguientes son los proyectos en los que he trabajado"
   p5:
-    heading: "Medios de contacto"
+    heading: "Conecta conmigo"
+    email: "gonzaloaguerodev@gmail.com"
     content:
       - text: ""
     action: "#"

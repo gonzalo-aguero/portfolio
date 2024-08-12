@@ -5,6 +5,7 @@ date: 2024-08-04T11:14:19-03:00
 draft: false
 language: es
 featured_image: ../assets/images/projects/bskelevadores.png
+demoURL: "http://gprojects.epizy.com/bskelevadores/"
 summary: "Sitio web para empresa de ascensores"
 description: "Sitio web para empresa de ascensores"
 authorimage: ../assets/images/global/author.webp

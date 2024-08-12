@@ -5,6 +5,7 @@ date: 2024-08-03T10:46:02-03:00
 draft: false
 language: es
 featured_image: ../assets/images/projects/cabanaspostales.png
+demoURL: "http://gprojects.epizy.com/cabanas/"
 summary: "Sistema de reservas de cabaña y quinta, realizado para cliente."
 description: "Sistema de reservas de cabaña y quinta, realizado para cliente."
 authorimage: ../assets/images/global/author.webp
