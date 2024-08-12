@@ -5,6 +5,7 @@ date: {{ .Date }}
 draft: false
 language: es
 featured_image: ../assets/images/projects/image.jpg
+demoURL: 
 summary: 
 description: "Descripción para el SEO"
 authorimage: ../assets/images/global/author.webp

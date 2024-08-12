@@ -11,6 +11,10 @@ paginate: 9
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
+scripts:
+  # - assets/js/scroll.js
+  # - assets/js/scrollreveal.js
+  # - assets/js/scrollreveal-config
 
 markup:
   goldmark:
@@ -125,7 +129,8 @@ params:
     content:
       - text: "Los siguientes son los proyectos en los que he trabajado"
   p5:
-    heading: "Medios de contacto"
+    heading: "Conecta conmigo"
+    email: "gonzaloaguerodev@gmail.com"
     content:
       - text: ""
     action: "#"
@@ -140,6 +145,9 @@ params:
     linkedin:
       enabled: true
       url: 'https://www.linkedin.com/in/gonzalo-aguero/'
+    email:
+      enabled: true
+      url: 'mailto:gonzaloaguerodev@gmail.com'
     facebook:
       enabled: false
       url: 'https://facebook.com/'

@@ -5,6 +5,7 @@ date: 2024-08-02T11:23:14-03:00
 draft: false
 language: es
 featured_image: ../assets/images/projects/bgatransporte.png
+demoURL: "http://gprojects.epizy.com/bgatransporte/"
 summary: "Sitio web para empresa de transporte."
 description: "Sitio web para empresa de transporte."
 authorimage: ../assets/images/global/author.webp
