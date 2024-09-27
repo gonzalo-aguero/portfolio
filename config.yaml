@@ -55,7 +55,7 @@ params:
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Desarrollador de Software"
-  description: "Programador desde hace más de dos años y actualmente estudiante de Ingeniería en Sistemas en la UTN de Santa Fe, Argentina."
+  description: "Programador desde hace dos años y actualmente estudiante de Ingeniería en Sistemas en la UTN de Santa Fe, Argentina."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -83,7 +83,7 @@ params:
       - text: "He adquirido y aplicado mis conocimientos en varios proyectos utilizando principalmente JavaScript y PHP, tanto en su versión vanilla como con el framework Laravel. Para la estética de los sitios web, manejo tanto CSS3 como TailwindCSS."
       - text: "Durante mis estudios en la universidad, aprendí a utilizar SQL, con un enfoque principal en PostgreSQL."
       - text: "En cuanto a React, lo he aprendido e implementado en el desarrollo de una aplicación personal para la gestión de gastos."
-      - text: "Actualmente, uso Linux como mi sistema operativo principal. Me siento muy cómodo utilizando la terminal y estoy familiarizado con la estructura de archivos, los comandos más comunes, y gracias a mi formación académica, tengo un sólido entendimiento de los sistemas operativos. Esto me permite investigar y resolver problemas con mayor facilidad cuando sea necesario."
+      - text: "Actualmente, uso Linux como mi sistema operativo principal. Me siento muy cómodo utilizando la terminal y estoy familiarizado con la estructura de archivos, los comandos más comunes, y gracias a mi formación académica, tengo un entendimiento aunque sea básico de los sistemas operativos. Esto me permite investigar y resolver problemas con mayor facilidad cuando sea necesario."
     # links:
     #   - text: Meet our investors and advisors
     #     url: "#"
@@ -163,7 +163,7 @@ menu:
   main:
     - identifier: home
       name: Home
-      url: /
+      url: "#"
       weight: 10
     - identifier: about
       name: Sobre mí
@@ -178,25 +178,21 @@ menu:
       url: "#contact"
       weight: 50
   footer:
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: home
+      name: Home
+      url: "#"
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /categories/blog/
+    - identifier: about
+      name: Sobre mí
+      url: "#about"
       weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
+    - identifier: projects
+      name: Proyectos
+      url: "#projects"
       weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 40
     - identifier: contact
-      name: Contact
-      url: /contact/
+      name: Contacto
+      url: "#contact"
       weight: 50
 
 markup:
